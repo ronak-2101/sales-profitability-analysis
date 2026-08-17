@@ -273,36 +273,6 @@ Evaluate products, markets, and segments using **Sales, Profit, and Profit Margi
 
 ---
 
-# 📸 Dashboard Preview
-
-Add your best Power BI dashboard screenshot here:
-
-```markdown
-[Sales & Profitability Dashboard](dashboard.png)
-```
-
-The dashboard provides an interactive view of Sales, Profit, Products, Countries, Segments, Discount Bands, and monthly performance.
-
----
-
-# 🎥 Dashboard Demonstration
-
-A short video demonstration of the interactive Power BI dashboard is included in the repository.
-
-```text
-Dashboard/dashboard-demo.mp4
-```
-
----
-
-# 📄 Project Report
-
-The complete analysis, findings, and recommendations are available in:
-
-📑 `Report/Report.pdf`
-
----
-
 # 🎓 Internship Context
 
 This project was completed as the **final project of a BeeSkilled virtual internship**, applying practical data analytics techniques across Python, SQL, and Power BI.
