@@ -273,38 +273,12 @@ Evaluate products, markets, and segments using **Sales, Profit, and Profit Margi
 
 ---
 
-# 📂 Repository Structure
-
-```text
-sales-profitability-performance/
-│
-├── 📁 Python/
-│   └── capstone.ipynb
-│
-├── 📁 SQL/
-│   └── Capstone.sql
-│
-├── 📁 PowerBI/
-│   └── Capstone.pbix
-│
-├── 📁 Report/
-│   └── Report.pdf
-│
-├── 📁 Dashboard/
-│   ├── dashboard.png
-│   └── dashboard-demo.mp4
-│
-└── 📄 README.md
-```
-
----
-
 # 📸 Dashboard Preview
 
 Add your best Power BI dashboard screenshot here:
 
 ```markdown
-![Sales & Profitability Dashboard](Dashboard/dashboard.png)
+[Sales & Profitability Dashboard](dashboard.png)
 ```
 
 The dashboard provides an interactive view of Sales, Profit, Products, Countries, Segments, Discount Bands, and monthly performance.
